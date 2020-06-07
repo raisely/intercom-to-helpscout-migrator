@@ -24,3 +24,13 @@ To run the script:
 -   `npm start`
 
 _For a site with about 100 docs, it takes roughly an hour._
+
+### Issues & Warranty
+
+We're offering this migration tool with no support or warranty. We used it for our own migration, but we haven't done testing beyond that. It may break if Intercom change the class selectors we rely on.
+
+Feel free to submit PRs/issues against this repository. We welcome PRs, we may not fix issues.
+
+### About Raisely
+
+Raisely powers online fundraising for ambitious campaigns. We help charities raise money online through simple, easy to use fundraising websites. Love to code but want to work on projects that improve the wellbeing or people and planet? [Get in touch](mailto:jobs@raisely.com).
