@@ -1,0 +1,22 @@
+{
+	"name": "intercom-to-helpscout",
+	"version": "1.0.0",
+	"description": "A small utility to migrate articles from Intercom to Helpscout",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node index.js"
+	},
+	"author": "Raisely",
+	"license": "Do No Harm License",
+	"dependencies": {
+		"axios": "^0.19.2",
+		"cheerio": "^1.0.0-rc.3",
+		"form-data": "^3.0.0",
+		"shortid": "^2.2.15"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.4",
+		"prettier": "^2.0.5"
+	}
+}
